@@ -2,13 +2,13 @@
   "bot-account": {
     "username": "bot",
     "password": "",
-    "type": "mojang"
+    "type": ""
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "Onlineboi.ploudos.me",
     "port": 25565,
-    "version": "1.17.1"
+    "version": "1.18.2"
   },
 
   "position": {
@@ -25,7 +25,7 @@
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false
     },
 
